@@ -14,7 +14,7 @@
         "offline": "serverless offline start"
     },
     "devDependencies": {
-        "acorn": "^6.1.1",
+        "acorn": "^7.0.0",
         "create-cert": "^1.0.6",
         "jest": "^24.1.0",
         "jwk-to-pem": "^2.0.1",
